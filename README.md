@@ -29,8 +29,10 @@ No arquivo index.html (no h1 pode colocar o que quiser)
 Para salvar arquivo e sair do nano
 
 ´´´
+
 ctrl + O
 ctrl + X
+
 ´´´
 
 ```
