@@ -6,9 +6,9 @@
 
 ### Estrutura do projeto 
 ```
+apache.yml
 app/
   index.html
-  apache.yml
 ```
   
 
