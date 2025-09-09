@@ -4,6 +4,14 @@
 
 - Proposta: utilizar o docker compose para executar uma aplicação HTML em um container Apache.
 
+### Estrutura do projeto 
+```
+app/
+  index.html
+  apache.yml
+```
+  
+
 ### Passos para rodar a aplicação
 
 ```
