@@ -11,6 +11,8 @@
 
 git clone https://github.com/bruno-DAM/docker-apache
 
+cd docker-apache
+
 mkdir servidor_web
 
 cd servidor_web
