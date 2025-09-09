@@ -48,4 +48,4 @@ docker-compose -f apache.yml up -d
 docker container ls
 ```
 
-Após isso, colocar no nevagor o endereço IP do servidor.
+Após isso, fazer acesso no nevagor http://localhost ou pelo IP do servidor.
