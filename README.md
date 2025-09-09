@@ -1,8 +1,8 @@
 # docker-apache
 
-Atividade  - Criando um Container de uma Aplicação WEB DIO.me 
+- Atividade  - Criando um Container de uma Aplicação WEB DIO.me 
 
-Proposta: utilizar o docker compose para executar uma aplicação HTML em um container Apache
+- Proposta: utilizar o docker compose para executar uma aplicação HTML em um container Apache
 
 ### Passos para rodar a aplicação
 
@@ -26,9 +26,7 @@ No arquivo index.html (no h1 pode colocar o que quiser)
 </html>
 ```
 
-Para salvar arquivo e sair do nano
-
-´´´ctrl + O, ctrl + X```
+Para salvar arquivo e sair do nano: **ctrl + O, ctrl + X**
 
 ```
 # instalação do docker-compose e subindo container
