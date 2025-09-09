@@ -28,7 +28,7 @@ cd servidor_web
 nano index.html 
 ```
 
-No arquivo index.html (no h1 pode colocar o que quiser).
+No arquivo **index.html** (no **h1** pode colocar o que quiser).
 
 ```
 <html>
@@ -36,7 +36,7 @@ No arquivo index.html (no h1 pode colocar o que quiser).
 </html>
 ```
 
-Para salvar arquivo e sair do nano: **ctrl + O, ctrl + X**
+Para salvar arquivo e sair do **nano**: **ctrl + O, ctrl + X**
 
 ```
 # instalação do docker-compose e subindo container
